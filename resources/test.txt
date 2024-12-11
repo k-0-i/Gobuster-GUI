@@ -1,0 +1,8 @@
+1
+aaa
+admin
+passwd
+register
+.bashrc
+beta
+blog

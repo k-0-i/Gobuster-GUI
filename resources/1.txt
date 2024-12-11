@@ -1,0 +1,23 @@
+正在执行命令:
+gobuster dir -u http://jzcheng.cn/ -w /home/st4rry/PyProject/GobusterGUI/resources/test.txt -t 1 --no-progress --no-color
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://jzcheng.cn/
+[+] Method:                  GET
+[+] Threads:                 1
+[+] Wordlist:                /home/st4rry/PyProject/GobusterGUI/resources/test.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+
+/admin                (Status: 301) [Size: 162] [--> http://jzcheng.cn/admin/]
+===============================================================
+Finished
+===============================================================
+
+命令执行完成。
